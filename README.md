@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDRIYAZ
-- 👀 I’m interested in Deep learning 
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in AI & Web Dev
+- 🌱 I’m currently learning Deep learning & Data Science
 
 
 <!---
